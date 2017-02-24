@@ -8,8 +8,6 @@
 
 #include <_IncludeApp.hpp>
 
-using namespace std;
-
 int main()
 {
 	Empleado e;

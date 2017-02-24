@@ -1,7 +1,5 @@
 #include <_IncludeApp.hpp>
 
-using namespace std;
-
 void Empleado::imprime()
 {
 	cout << "Nombre empleado:" << nombre << endl;
