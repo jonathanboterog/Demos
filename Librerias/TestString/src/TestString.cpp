@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : TestString.cpp
-// Author      : jbotero
+// Author      : jbotero/jbotero
 // Version     :
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
